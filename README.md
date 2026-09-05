@@ -1,6 +1,4 @@
-EXPERIMENT NO : 6
-
-## Login into AWS and Implement Identity Management Using Amazon IAM
+## 6. Login into AWS and Implement Identity Management Using Amazon IAM
 
 ## Name : BOYALAPALLI HARSHALA REDDY
 
@@ -229,12 +227,14 @@ Add the screenshot showing student01 accessing the S3 bucket and viewing its obj
 ## Expected Result
 
 The IAM group cloudSecurity_2026 is successfully created and assigned the AmazonS3ReadOnlyAccess policy. The IAM user student01 is successfully created, added to the group, and provided with AWS Management Console access. The user can log in to AWS and access the assigned S3 resources according to the permissions inherited from the group.
-<img width="1917" height="902" alt="Screenshot 2026-08-28 134816" src="https://github.com/user-attachments/assets/a0468b74-7cfa-4e72-8ed8-a626686ed7ff" />
-<img width="1917" height="911" alt="Screenshot 2026-08-28 141959" src="https://github.com/user-attachments/assets/5a310018-7af0-4aee-aae7-e68d0787afc0" />
-<img width="1917" height="900" alt="Screenshot 2026-08-28 143000" src="https://github.com/user-attachments/assets/3c007f6b-8a91-46cd-91bb-9d0d26286f27" />
-<img width="1917" height="847" alt="Screenshot 2026-08-28 143131" src="https://github.com/user-attachments/assets/65bfc1bf-a970-45f9-b31c-028184a97f7f" />
-<img width="1917" height="805" alt="Screenshot 2026-08-28 143532" src="https://github.com/user-attachments/assets/9d076313-06af-499c-a2d9-56e3517a169a" />
-<img width="1917" height="957" alt="Screenshot 2026-08-28 144251" src="https://github.com/user-attachments/assets/5f225342-7fdc-47c2-8a51-99b1c877c80e" />
+
+<img width="1917" height="1032" alt="1" src="https://github.com/user-attachments/assets/827b35d6-9c4a-4108-be6d-3e8a24a6a7ea" />
+<img width="1891" height="1033" alt="2" src="https://github.com/user-attachments/assets/53166026-e069-43cb-b6c7-cbb81af097cf" />
+<img width="1917" height="1025" alt="3" src="https://github.com/user-attachments/assets/5426c444-8bc6-4dc5-a059-270c71f84569" />
+<img width="1900" height="1027" alt="4" src="https://github.com/user-attachments/assets/9ed3d7be-7a6a-475f-8b2c-d52f8ae760cc" />
+<img width="1915" height="1030" alt="5" src="https://github.com/user-attachments/assets/42c1877d-0e3a-41ac-9594-ffa08a063aef" />
+<img width="1917" height="1081" alt="6" src="https://github.com/user-attachments/assets/c2e634f9-b20f-4b6c-9966-83aafd24a563" />
+<img width="1903" height="1087" alt="7" src="https://github.com/user-attachments/assets/e3902ed4-f4de-4eb5-8752-f2536e9839f2" />
 
 
 ## Result
